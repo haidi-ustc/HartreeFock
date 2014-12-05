@@ -1,0 +1,8 @@
+SystemName          H2O-(STO-3G)-RHF
+SystemLabel         h2o
+SpinPolarized       F
+NumberOfBasis       7
+CalcType            RHF  # ROHR RHF
+TotalSpin           0.0
+
+

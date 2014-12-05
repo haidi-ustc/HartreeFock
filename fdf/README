@@ -1,0 +1,14 @@
+This is the original FDF package, by Alberto Garcia and Jose Soler.
+
+We request that the copyright notices in the code be kept if the package is
+eventually used as part of another program.
+
+NOTES:
+
+The library, as compiled, still depends on the functionality of an
+"io" package. In Siesta, that is provided by file Src/io.f (which has
+its own Siesta-specific dependencies). If you use fdf in your program,
+you will need to link it to something similar to the code in
+io_for_fdf_tests.f.
+
+

@@ -1,0 +1,67 @@
+
+	*** Begin quantum chemistry on:   h2o
+
+	*** Started creation of one- and two- electron integrals
+	*** Finished creation of one- and two- electron integrals
+
+	*** Begin SCF iteration, convergence requested:  1e-08 a.u.
+DIIS acceleration OFF
+E: -117.839710372414 a.u. 	Delta: 125.842077432414
+E: -70.284216299159 a.u. 	Delta: 47.555494073255
+E: -76.045949192580 a.u. 	Delta: 5.761732893421
+E: -74.714598909926 a.u. 	Delta: 1.331350282654
+E: -74.984773703093 a.u. 	Delta: 0.270174793167
+E: -74.935766133778 a.u. 	Delta: 0.049007569315
+E: -74.943904024497 a.u. 	Delta: 0.008137890719
+E: -74.942119730611 a.u. 	Delta: 0.001784293886
+E: -74.942250197854 a.u. 	Delta: 0.000130467244
+E: -74.942136446279 a.u. 	Delta: 0.000113751575
+E: -74.942111876183 a.u. 	Delta: 0.000024570096
+E: -74.942094573233 a.u. 	Delta: 0.000017302950
+E: -74.942087143919 a.u. 	Delta: 0.000007429314
+E: -74.942083390593 a.u. 	Delta: 0.000003753326
+E: -74.942081607226 a.u. 	Delta: 0.000001783366
+E: -74.942080741471 a.u. 	Delta: 0.000000865756
+E: -74.942080324556 a.u. 	Delta: 0.000000416914
+E: -74.942080123225 a.u. 	Delta: 0.000000201331
+E: -74.942080026105 a.u. 	Delta: 0.000000097120
+E: -74.942079979239 a.u. 	Delta: 0.000000046866
+E: -74.942079956626 a.u. 	Delta: 0.000000022613
+E: -74.942079945715 a.u. 	Delta: 0.000000010911
+E: -74.942079940450 a.u. 	Delta: 0.000000005265
+NUMBER ITERATIONS:  22
+Total E(RHF):  -74.9420799457 a.u.
+	*** End of SCF Iteration
+
+	*** Begin AO to MO <pq||rs> transformation
+	*** Finished AO to MO <pq||rs> tranformation
+
+	*** Begin MP2 Energy calculation
+MP2 corr:  -0.049149636289 a.u.
+Total E(MP2):  -74.991229582 a.u.
+	*** Finished MP2 Energy calculation
+
+	*** Begin CCSD calculation
+E corr: -0.062949305107 a.u. 	DeltaE: 0.062949305107
+E corr: -0.067553968098 a.u. 	DeltaE: 0.004604662991
+E corr: -0.069336308822 a.u. 	DeltaE: 0.001782340724
+E corr: -0.070086951496 a.u. 	DeltaE: 0.000750642674
+E corr: -0.070417414154 a.u. 	DeltaE: 0.000330462657
+E corr: -0.070566863352 a.u. 	DeltaE: 0.000149449199
+E corr: -0.070635845833 a.u. 	DeltaE: 0.000068982481
+E corr: -0.070668271651 a.u. 	DeltaE: 0.000032425818
+E corr: -0.070683779878 a.u. 	DeltaE: 0.000015508227
+E corr: -0.070691321374 a.u. 	DeltaE: 0.000007541495
+E corr: -0.070695047070 a.u. 	DeltaE: 0.000003725697
+E corr: -0.070696914887 a.u. 	DeltaE: 0.000001867817
+E corr: -0.070697863897 a.u. 	DeltaE: 0.000000949009
+E corr: -0.070698351871 a.u. 	DeltaE: 0.000000487974
+E corr: -0.070698605433 a.u. 	DeltaE: 0.000000253562
+E corr: -0.070698738393 a.u. 	DeltaE: 0.000000132960
+E corr: -0.070698808659 a.u. 	DeltaE: 0.000000070266
+E corr: -0.070698846040 a.u. 	DeltaE: 0.000000037381
+E corr: -0.070698866039 a.u. 	DeltaE: 0.000000019999
+E corr: -0.070698876789 a.u. 	DeltaE: 0.000000010750
+TOTAL ITERATIONS:  20
+E(CCSD): -75.01277883 a.u.
+	*** End CCSD calculation

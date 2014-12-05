@@ -1,0 +1,10 @@
+
+#FDF: Opened input                          for input. Unit: 11
+
+fdf-debug              0     # Default value
+SystemName     H2O-(STO-3G)-RHF                                                                                                                    
+SystemLabel     h2o                                                                                                                                 
+SpinPolarized              F
+NumberOfBasis                        7
+TotalSpin          0.000000000    
+CalcType     RHF                                                                                                                                 
